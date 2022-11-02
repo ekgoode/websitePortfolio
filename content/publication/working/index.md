@@ -6,5 +6,5 @@ authors:
 - Stephie Fried
 - Ethan Goode
 
-url_pdf: "CFG_TempImpacts_2022.pdf"
+url_pdf: "Casey_Fried_Goode_2022.pdf"
 ---

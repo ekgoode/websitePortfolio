@@ -38,4 +38,4 @@ of the Federal Reserve System.
 
 
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/Resume_05152022v2.pdf" "newtab" >}}resumé{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/ethan_goode_resume.pdf" "newtab" >}}resume{{< /staticref >}}.

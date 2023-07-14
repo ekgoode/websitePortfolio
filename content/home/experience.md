@@ -22,13 +22,22 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
+  - title: Analyst II
+    company: Great Lakes Behavioral Research Institute
+    company_url: ''
+    company_logo: greatlakes_icon
+    location: Pittsburgh
+    date_start: '2023-07-17'
+    date_end: ''
+    description:
+    
   - title: Research Associate
     company: Federal Reserve Bank of San Francisco
     company_url: ''
     company_logo: sffed_icon
     location: California
     date_start: '2021-01-11'
-    date_end: ''
+    date_end: '2023-05-31'
     description:
 
   - title: Research Intern

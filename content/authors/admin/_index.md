@@ -6,6 +6,9 @@ education:
   - course: BSc in Economics
     institution: University of Houston
     year: 2020
+  - course: MS in Data Science
+    institution: The University of Texas at Austin
+    year: Ongoing
 email: "ethan.goode000@gmail.com"
 highlight_name: true
 interests:
@@ -13,9 +16,9 @@ interests:
 - Spatial Data Analysis
 - Environmental Economics
 organizations:
-- name: Federal Reserve Bank of San Francisco
-  url: https://www.frbsf.org/
-role: Research Associate
+- name: Great Lakes Behavioral Research Institute
+  url: https://www.greatlakesresearch.com/
+role: Data Analyst
 social:
 - icon: envelope
   icon_pack: fas
@@ -30,11 +33,10 @@ superuser: true
 title: Ethan Goode
 ---
 
-I am a research associate at  the Federal Reserve Bank of San Francisco. My current interests are Statistical Learning, Spatial Data, and Environmental Economics.
+I am a data analyst at Great Lakes Behavioral Research Institute. My current interests are statistical learning, spatial data, and environmental economics.
 
 The content on this website is solely the responsibility of my own and should not be interpreted
-as reflecting the views of the Federal Reserve Bank of San Francisco or the Board of Governors
-of the Federal Reserve System.
+as reflecting the views of Great Lakes Behavioral Research Institute or Allegheny County.
 
 
 

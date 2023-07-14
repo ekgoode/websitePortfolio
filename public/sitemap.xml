@@ -10,6 +10,22 @@
   <url>
     <loc>https://ekgoode.github.io/event/</loc><lastmod>2030-06-01T13:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
+    <loc></loc><lastmod>2023-06-26T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://ekgoode.github.io/publication-type/0/</loc><lastmod>2023-06-26T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc></loc><lastmod>2023-06-26T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc></loc><lastmod>2023-06-26T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://ekgoode.github.io/publication/el_cc/</loc><lastmod>2023-06-26T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://ekgoode.github.io/publication/</loc><lastmod>2023-06-26T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://ekgoode.github.io/publication_types/</loc><lastmod>2023-06-26T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc></loc><lastmod>2023-06-26T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
     <loc>https://ekgoode.github.io/categories/</loc><lastmod>2022-05-14T21:13:14-05:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
     <loc>https://ekgoode.github.io/post/2020-12-01-r-rmarkdown/</loc><lastmod>2022-05-14T21:13:14-05:00</lastmod><changefreq>weekly</changefreq></url>
@@ -26,11 +42,13 @@
   <url>
     <loc>https://ekgoode.github.io/tags/</loc><lastmod>2022-05-14T21:13:14-05:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
+    <loc>https://ekgoode.github.io/publication/el_japan/</loc><lastmod>2021-05-24T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
     <loc>https://ekgoode.github.io/project/example/</loc><lastmod>2021-05-14T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>https://ekgoode.github.io/project/</loc><lastmod>2021-05-14T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+    <loc>https://ekgoode.github.io/project/project2/</loc><lastmod>2021-05-14T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc></loc><lastmod>2020-12-13T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+    <loc>https://ekgoode.github.io/project/</loc><lastmod>2021-05-14T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
     <loc>https://ekgoode.github.io/tag/academic/</loc><lastmod>2020-12-13T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
@@ -48,16 +66,4 @@
   <url>
     <loc>https://ekgoode.github.io/slides/</loc><lastmod>2019-02-05T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>https://ekgoode.github.io/slides/example/</loc><lastmod>2019-02-05T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
-  <url>
-    <loc></loc><changefreq>weekly</changefreq></url>
-  <url>
-    <loc></loc><changefreq>weekly</changefreq></url>
-  <url>
-    <loc>https://ekgoode.github.io/publication/working/</loc><changefreq>weekly</changefreq></url>
-  <url>
-    <loc>https://ekgoode.github.io/publication_types/</loc><changefreq>weekly</changefreq></url>
-  <url>
-    <loc></loc><changefreq>weekly</changefreq></url>
-  <url>
-    <loc>https://ekgoode.github.io/publication/</loc><changefreq>weekly</changefreq></url></urlset>
+    <loc>https://ekgoode.github.io/slides/example/</loc><lastmod>2019-02-05T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url></urlset>

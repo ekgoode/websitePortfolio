@@ -33,6 +33,14 @@
     </item>
     
     <item>
+      <title>How Long Do Rising Temperatures Affect Economic Growth? (FRBSF Economic Letter)</title>
+      <link>https://ekgoode.github.io/publication/el_cc/</link>
+      <pubDate>Mon, 26 Jun 2023 00:00:00 +0000</pubDate>
+      <guid>https://ekgoode.github.io/publication/el_cc/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>My First Post</title>
       <link>https://ekgoode.github.io/post/2020-12-01-r-rmarkdown/</link>
       <pubDate>Sat, 14 May 2022 21:13:14 -0500</pubDate>
@@ -83,10 +91,26 @@ Figure 1: A fancy pie chart.
     </item>
     
     <item>
-      <title>Fiscal Multiplier at the Zero Bound:Evidence from Japan</title>
+      <title>Fiscal Multiplier at the Zero Bound: Evidence from Japan (FRBSF Economic Letter)</title>
+      <link>https://ekgoode.github.io/publication/el_japan/</link>
+      <pubDate>Mon, 24 May 2021 00:00:00 +0000</pubDate>
+      <guid>https://ekgoode.github.io/publication/el_japan/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Fiscal Multiplier at the Zero Bound: Evidence from Japan</title>
       <link>https://ekgoode.github.io/project/example/</link>
       <pubDate>Fri, 14 May 2021 00:00:00 +0000</pubDate>
       <guid>https://ekgoode.github.io/project/example/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>How Long Do Rising Temperatures Affect Economic Growth?</title>
+      <link>https://ekgoode.github.io/project/project2/</link>
+      <pubDate>Fri, 14 May 2021 00:00:00 +0000</pubDate>
+      <guid>https://ekgoode.github.io/project/project2/</guid>
       <description></description>
     </item>
     
@@ -299,14 +323,6 @@ $$&lt;/p&gt;
       <link>https://ekgoode.github.io/admin/config.yml</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://ekgoode.github.io/admin/config.yml</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Projecting the impacts of temperature change: The role of macroeconomic dynamics (Revision requested, IMF Economic Review)</title>
-      <link>https://ekgoode.github.io/publication/working/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://ekgoode.github.io/publication/working/</guid>
       <description></description>
     </item>
     

@@ -26,7 +26,7 @@ experience:
     company: Great Lakes Behavioral Research Institute
     company_url: ''
     company_logo: greatlakes_icon
-    location: Pittsburgh
+    location: Pennsylvania
     date_start: '2023-07-17'
     date_end: ''
     description:
